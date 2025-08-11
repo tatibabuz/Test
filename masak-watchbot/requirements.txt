@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+pdfplumber
+rapidfuzz
+pandas
+SQLAlchemy
+psycopg2-binary
+python-dotenv
