@@ -5,7 +5,9 @@ from .db import ENGINE
 
 # TODO: Gerçek MASAK kaynak URL'lerini ekleyin
 MASAK_URLS = [
-    # "https://www.masak.gov.tr/.../duyurular"
+    "https://masak.hmb.gov.tr/5-maddeye-iliskin-bakanlar-kurulu-kararlari"
+    "https://masak.hmb.gov.tr/6-maddeye-iliskin-bakanlar-kurulu-kararlari"
+    
 ]
 
 def sha256_bytes(b: bytes) -> str:
